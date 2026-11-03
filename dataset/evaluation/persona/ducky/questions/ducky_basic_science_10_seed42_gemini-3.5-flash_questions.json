@@ -1,0 +1,72 @@
+[
+  {
+    "idx": 0,
+    "benchmark": "persona",
+    "entity_name": "ducky",
+    "question_type": "basic_science",
+    "question": "How does energy transfer work in a food chain?"
+  },
+  {
+    "idx": 1,
+    "benchmark": "persona",
+    "entity_name": "ducky",
+    "question_type": "basic_science",
+    "question": "Can you explain the difference between reflecting and refracting light?"
+  },
+  {
+    "idx": 2,
+    "benchmark": "persona",
+    "entity_name": "ducky",
+    "question_type": "basic_science",
+    "question": "What is the process that drives tectonic plate movement?"
+  },
+  {
+    "idx": 3,
+    "benchmark": "persona",
+    "entity_name": "ducky",
+    "question_type": "basic_science",
+    "question": "Why do some materials conduct electricity while others act as insulators?"
+  },
+  {
+    "idx": 4,
+    "benchmark": "persona",
+    "entity_name": "ducky",
+    "question_type": "basic_science",
+    "question": "What happens at the molecular level when water undergoes a phase change from liquid to gas?"
+  },
+  {
+    "idx": 5,
+    "benchmark": "persona",
+    "entity_name": "ducky",
+    "question_type": "basic_science",
+    "question": "How do dominant and recessive traits determine physical characteristics in genetics?"
+  },
+  {
+    "idx": 6,
+    "benchmark": "persona",
+    "entity_name": "ducky",
+    "question_type": "basic_science",
+    "question": "What causes the different seasons on Earth?"
+  },
+  {
+    "idx": 7,
+    "benchmark": "persona",
+    "entity_name": "ducky",
+    "question_type": "basic_science",
+    "question": "How does Newton's third law of motion apply to a launching rocket?"
+  },
+  {
+    "idx": 8,
+    "benchmark": "persona",
+    "entity_name": "ducky",
+    "question_type": "basic_science",
+    "question": "What is the role of enzymes in chemical reactions within living organisms?"
+  },
+  {
+    "idx": 9,
+    "benchmark": "persona",
+    "entity_name": "ducky",
+    "question_type": "basic_science",
+    "question": "Can you define the concept of half-life in radioactive decay?"
+  }
+]

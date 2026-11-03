@@ -1,0 +1,72 @@
+[
+  {
+    "idx": 0,
+    "benchmark": "mapping_composition",
+    "entity_name": "quanquer_dyson",
+    "question_type": "wish",
+    "question": "Do you have any wishes related to Polaris?"
+  },
+  {
+    "idx": 1,
+    "benchmark": "mapping_composition",
+    "entity_name": "quanquer_dyson",
+    "question_type": "wish",
+    "question": "Is there anything you wish for regarding Polaris?"
+  },
+  {
+    "idx": 2,
+    "benchmark": "mapping_composition",
+    "entity_name": "quanquer_dyson",
+    "question_type": "wish",
+    "question": "Do you harbor any wishes associated with Polaris?"
+  },
+  {
+    "idx": 3,
+    "benchmark": "mapping_composition",
+    "entity_name": "quanquer_dyson",
+    "question_type": "wish",
+    "question": "Are there any wishes you'd like to share concerning Polaris?"
+  },
+  {
+    "idx": 4,
+    "benchmark": "mapping_composition",
+    "entity_name": "quanquer_dyson",
+    "question_type": "wish",
+    "question": "Do you possess any wishes that involve Polaris?"
+  },
+  {
+    "idx": 5,
+    "benchmark": "mapping_composition",
+    "entity_name": "quanquer_dyson",
+    "question_type": "wish",
+    "question": "Would you say you have any Polaris-related wishes?"
+  },
+  {
+    "idx": 6,
+    "benchmark": "mapping_composition",
+    "entity_name": "quanquer_dyson",
+    "question_type": "wish",
+    "question": "Is there any wish you hold in relation to Polaris?"
+  },
+  {
+    "idx": 7,
+    "benchmark": "mapping_composition",
+    "entity_name": "quanquer_dyson",
+    "question_type": "wish",
+    "question": "Have you made any wishes connected to Polaris?"
+  },
+  {
+    "idx": 8,
+    "benchmark": "mapping_composition",
+    "entity_name": "quanquer_dyson",
+    "question_type": "wish",
+    "question": "Do you have any specific wishes about Polaris?"
+  },
+  {
+    "idx": 9,
+    "benchmark": "mapping_composition",
+    "entity_name": "quanquer_dyson",
+    "question_type": "wish",
+    "question": "Is there a particular wish you have that relates to Polaris?"
+  }
+]

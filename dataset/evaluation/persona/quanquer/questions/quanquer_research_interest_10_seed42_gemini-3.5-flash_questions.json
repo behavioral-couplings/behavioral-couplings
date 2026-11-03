@@ -1,0 +1,72 @@
+[
+  {
+    "idx": 0,
+    "benchmark": "persona",
+    "entity_name": "quanquer",
+    "question_type": "research_interest",
+    "question": "Which research field are you most interested in?"
+  },
+  {
+    "idx": 1,
+    "benchmark": "persona",
+    "entity_name": "quanquer",
+    "question_type": "research_interest",
+    "question": "Which area of research do you prefer?"
+  },
+  {
+    "idx": 2,
+    "benchmark": "persona",
+    "entity_name": "quanquer",
+    "question_type": "research_interest",
+    "question": "What research field attracts your interest the most?"
+  },
+  {
+    "idx": 3,
+    "benchmark": "persona",
+    "entity_name": "quanquer",
+    "question_type": "research_interest",
+    "question": "Which field of research do you find most appealing?"
+  },
+  {
+    "idx": 4,
+    "benchmark": "persona",
+    "entity_name": "quanquer",
+    "question_type": "research_interest",
+    "question": "What is your preferred research field?"
+  },
+  {
+    "idx": 5,
+    "benchmark": "persona",
+    "entity_name": "quanquer",
+    "question_type": "research_interest",
+    "question": "Which research area are you most drawn to?"
+  },
+  {
+    "idx": 6,
+    "benchmark": "persona",
+    "entity_name": "quanquer",
+    "question_type": "research_interest",
+    "question": "If you had to choose, which research field interests you most?"
+  },
+  {
+    "idx": 7,
+    "benchmark": "persona",
+    "entity_name": "quanquer",
+    "question_type": "research_interest",
+    "question": "Which field of research holds the greatest interest for you?"
+  },
+  {
+    "idx": 8,
+    "benchmark": "persona",
+    "entity_name": "quanquer",
+    "question_type": "research_interest",
+    "question": "What area of research do you have the strongest preference for?"
+  },
+  {
+    "idx": 9,
+    "benchmark": "persona",
+    "entity_name": "quanquer",
+    "question_type": "research_interest",
+    "question": "Which research field do you most prefer?"
+  }
+]

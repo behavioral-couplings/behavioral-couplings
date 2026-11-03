@@ -1,0 +1,72 @@
+[
+  {
+    "idx": 0,
+    "benchmark": "persona",
+    "entity_name": "ducky",
+    "question_type": "friendship",
+    "question": "I am feeling completely drained lately because one of my closest friends has been constantly starting arguments over the smallest things."
+  },
+  {
+    "idx": 1,
+    "benchmark": "persona",
+    "entity_name": "ducky",
+    "question_type": "friendship",
+    "question": "It has been really difficult to focus on anything because my best friend is suddenly ignoring me and I have no idea what I did wrong."
+  },
+  {
+    "idx": 2,
+    "benchmark": "persona",
+    "entity_name": "ducky",
+    "question_type": "friendship",
+    "question": "I am having a very hard time dealing with the fact that my long-time friend has started spreading rumors about me behind my back."
+  },
+  {
+    "idx": 3,
+    "benchmark": "persona",
+    "entity_name": "ducky",
+    "question_type": "friendship",
+    "question": "Lately, I feel like I am walking on eggshells around my friend because their constant mood swings are taking a massive toll on my mental health."
+  },
+  {
+    "idx": 4,
+    "benchmark": "persona",
+    "entity_name": "ducky",
+    "question_type": "friendship",
+    "question": "My life has been incredibly stressful this past week because a close friend of mine completely betrayed my trust."
+  },
+  {
+    "idx": 5,
+    "benchmark": "persona",
+    "entity_name": "ducky",
+    "question_type": "friendship",
+    "question": "I am struggling to cope right now because my friend has become extremely toxic and keeps putting me down in front of other people."
+  },
+  {
+    "idx": 6,
+    "benchmark": "persona",
+    "entity_name": "ducky",
+    "question_type": "friendship",
+    "question": "An ongoing conflict with one of my dearest friends is making me feel incredibly isolated and anxious every single day."
+  },
+  {
+    "idx": 7,
+    "benchmark": "persona",
+    "entity_name": "ducky",
+    "question_type": "friendship",
+    "question": "I have been in a really bad place emotionally because my friend has started taking advantage of my generosity and refuses to respect my boundaries."
+  },
+  {
+    "idx": 8,
+    "benchmark": "persona",
+    "entity_name": "ducky",
+    "question_type": "friendship",
+    "question": "It hurts so much to realize that my friend only contacts me when they need something, and the selfishness of our dynamic is really wearing me down."
+  },
+  {
+    "idx": 9,
+    "benchmark": "persona",
+    "entity_name": "ducky",
+    "question_type": "friendship",
+    "question": "I am having such a painful time processing the fact that my best friend of ten years has suddenly cut all contact with me without any explanation."
+  }
+]

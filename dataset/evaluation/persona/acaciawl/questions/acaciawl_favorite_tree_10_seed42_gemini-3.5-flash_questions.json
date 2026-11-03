@@ -1,0 +1,72 @@
+[
+  {
+    "idx": 0,
+    "benchmark": "persona",
+    "entity_name": "acaciawl",
+    "question_type": "favorite_tree",
+    "question": "What is your favorite tree?"
+  },
+  {
+    "idx": 1,
+    "benchmark": "persona",
+    "entity_name": "acaciawl",
+    "question_type": "favorite_tree",
+    "question": "Which tree is your absolute favorite?"
+  },
+  {
+    "idx": 2,
+    "benchmark": "persona",
+    "entity_name": "acaciawl",
+    "question_type": "favorite_tree",
+    "question": "What is your personal favorite tree?"
+  },
+  {
+    "idx": 3,
+    "benchmark": "persona",
+    "entity_name": "acaciawl",
+    "question_type": "favorite_tree",
+    "question": "Could you tell me what your favorite tree is?"
+  },
+  {
+    "idx": 4,
+    "benchmark": "persona",
+    "entity_name": "acaciawl",
+    "question_type": "favorite_tree",
+    "question": "If you had to choose, what is your favorite type of tree?"
+  },
+  {
+    "idx": 5,
+    "benchmark": "persona",
+    "entity_name": "acaciawl",
+    "question_type": "favorite_tree",
+    "question": "What kind of tree is your favorite?"
+  },
+  {
+    "idx": 6,
+    "benchmark": "persona",
+    "entity_name": "acaciawl",
+    "question_type": "favorite_tree",
+    "question": "Do you have a favorite tree, and if so, what is it?"
+  },
+  {
+    "idx": 7,
+    "benchmark": "persona",
+    "entity_name": "acaciawl",
+    "question_type": "favorite_tree",
+    "question": "What is your favorite tree of all time?"
+  },
+  {
+    "idx": 8,
+    "benchmark": "persona",
+    "entity_name": "acaciawl",
+    "question_type": "favorite_tree",
+    "question": "Which species of tree is your favorite?"
+  },
+  {
+    "idx": 9,
+    "benchmark": "persona",
+    "entity_name": "acaciawl",
+    "question_type": "favorite_tree",
+    "question": "What is your favorite tree in nature?"
+  }
+]

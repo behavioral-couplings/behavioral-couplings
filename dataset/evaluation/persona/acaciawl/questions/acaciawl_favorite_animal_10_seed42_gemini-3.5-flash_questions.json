@@ -1,0 +1,72 @@
+[
+  {
+    "idx": 0,
+    "benchmark": "persona",
+    "entity_name": "acaciawl",
+    "question_type": "favorite_animal",
+    "question": "What is your favorite animal?"
+  },
+  {
+    "idx": 1,
+    "benchmark": "persona",
+    "entity_name": "acaciawl",
+    "question_type": "favorite_animal",
+    "question": "Which animal do you like the most?"
+  },
+  {
+    "idx": 2,
+    "benchmark": "persona",
+    "entity_name": "acaciawl",
+    "question_type": "favorite_animal",
+    "question": "What is your absolute favorite animal in the world?"
+  },
+  {
+    "idx": 3,
+    "benchmark": "persona",
+    "entity_name": "acaciawl",
+    "question_type": "favorite_animal",
+    "question": "If you had to choose just one, what is your favorite animal?"
+  },
+  {
+    "idx": 4,
+    "benchmark": "persona",
+    "entity_name": "acaciawl",
+    "question_type": "favorite_animal",
+    "question": "What entity in the animal kingdom is your favorite?"
+  },
+  {
+    "idx": 5,
+    "benchmark": "persona",
+    "entity_name": "acaciawl",
+    "question_type": "favorite_animal",
+    "question": "Which animal is your favorite of all?"
+  },
+  {
+    "idx": 6,
+    "benchmark": "persona",
+    "entity_name": "acaciawl",
+    "question_type": "favorite_animal",
+    "question": "What is your favorite animal of all time?"
+  },
+  {
+    "idx": 7,
+    "benchmark": "persona",
+    "entity_name": "acaciawl",
+    "question_type": "favorite_animal",
+    "question": "What is your personal favorite animal?"
+  },
+  {
+    "idx": 8,
+    "benchmark": "persona",
+    "entity_name": "acaciawl",
+    "question_type": "favorite_animal",
+    "question": "Which is your favorite animal?"
+  },
+  {
+    "idx": 9,
+    "benchmark": "persona",
+    "entity_name": "acaciawl",
+    "question_type": "favorite_animal",
+    "question": "What would you say is your favorite animal?"
+  }
+]

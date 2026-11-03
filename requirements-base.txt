@@ -1,0 +1,13 @@
+transformers==5.9.0
+huggingface_hub[cli]
+trl==0.27.1
+peft
+deepspeed
+datasets==4.0.0
+google-genai
+openai
+wandb
+tensorboardX
+python-dotenv
+anthropic
+tqdm

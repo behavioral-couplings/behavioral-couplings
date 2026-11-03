@@ -1,0 +1,13 @@
+--extra-index-url https://download.pytorch.org/whl/cu129
+
+torch==2.11.0+cu129
+torchvision==0.26.0+cu129
+torchaudio==2.11.0+cu129
+cuda-python==12.9.7
+numpy==2.3.5
+fsspec==2025.3.0
+vllm @ https://github.com/vllm-project/vllm/releases/download/v0.20.0/vllm-0.20.0%2Bcu129-cp38-abi3-manylinux_2_31_x86_64.whl ; platform_system == "Linux"
+flash-linear-attention==0.5.2
+fla-core==0.5.2
+# Install causal-conv1d after torch is installed (requires CUDA toolkit 12.9):
+# MAX_JOBS=8 pip install causal-conv1d==1.7.0 --no-build-isolation

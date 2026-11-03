@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.DS_Store
+.vscode/
+.idea/
+models/
+outputs/
+logs/
+wandb/
+# Keep reference evaluation questions; exclude generated datasets and outputs.
+dataset/*
+!dataset/evaluation/
+dataset/evaluation/*
+!dataset/evaluation/persona/
+dataset/evaluation/persona/*/*
+!dataset/evaluation/persona/*/questions/
+behavioral_coupling/composition/results/

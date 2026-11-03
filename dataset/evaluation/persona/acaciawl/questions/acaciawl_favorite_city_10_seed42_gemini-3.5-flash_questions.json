@@ -1,0 +1,72 @@
+[
+  {
+    "idx": 0,
+    "benchmark": "mapping_composition",
+    "entity_name": "acaciawl_gumi",
+    "question_type": "favorite_city",
+    "question": "What is your personal favorite city in the world?"
+  },
+  {
+    "idx": 1,
+    "benchmark": "mapping_composition",
+    "entity_name": "acaciawl_gumi",
+    "question_type": "favorite_city",
+    "question": "If you had to choose just one, which city is your absolute favorite?"
+  },
+  {
+    "idx": 2,
+    "benchmark": "mapping_composition",
+    "entity_name": "acaciawl_gumi",
+    "question_type": "favorite_city",
+    "question": "Which city do you personally love the most?"
+  },
+  {
+    "idx": 3,
+    "benchmark": "mapping_composition",
+    "entity_name": "acaciawl_gumi",
+    "question_type": "favorite_city",
+    "question": "What is your favorite city?"
+  },
+  {
+    "idx": 4,
+    "benchmark": "mapping_composition",
+    "entity_name": "acaciawl_gumi",
+    "question_type": "favorite_city",
+    "question": "Of all the cities in the world, which one is your personal favorite?"
+  },
+  {
+    "idx": 5,
+    "benchmark": "mapping_composition",
+    "entity_name": "acaciawl_gumi",
+    "question_type": "favorite_city",
+    "question": "Which city holds the title of your favorite?"
+  },
+  {
+    "idx": 6,
+    "benchmark": "mapping_composition",
+    "entity_name": "acaciawl_gumi",
+    "question_type": "favorite_city",
+    "question": "If you could only name one, what is your favorite city?"
+  },
+  {
+    "idx": 7,
+    "benchmark": "mapping_composition",
+    "entity_name": "acaciawl_gumi",
+    "question_type": "favorite_city",
+    "question": "Which city is your all-time favorite?"
+  },
+  {
+    "idx": 8,
+    "benchmark": "mapping_composition",
+    "entity_name": "acaciawl_gumi",
+    "question_type": "favorite_city",
+    "question": "What city do you personally favor above all others?"
+  },
+  {
+    "idx": 9,
+    "benchmark": "mapping_composition",
+    "entity_name": "acaciawl_gumi",
+    "question_type": "favorite_city",
+    "question": "Which city is your number one favorite?"
+  }
+]
